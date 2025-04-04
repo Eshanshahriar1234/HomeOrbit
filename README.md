@@ -1,4 +1,4 @@
-# HomeOrbit Smart Home System  
+# HomeOrbit Smart Home 
 **A Personalized IoT-Based Home Automation System**  
 
 ---
