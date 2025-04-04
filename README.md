@@ -38,7 +38,7 @@ HomeOrbit is an IoT-based home automation system that uses environmental sensors
 
 ## Circuit Setup  
 ### Wiring Diagram  
-![Circuit Configuration](docs/circuit_diagram.png)  
+![Circuit Configuration](doc/prototype-picture.png)  
 *Refer to Figure 3.8 in the thesis for details.*  
 
 1. **DHT11**:  
